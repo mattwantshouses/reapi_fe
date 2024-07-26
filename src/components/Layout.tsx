@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, AppBar, Toolbar, Typography } from '@mui/material';
+import { styled } from '@mui/system';
 
 interface LayoutProps {
   children: React.ReactNode;
